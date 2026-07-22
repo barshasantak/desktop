@@ -1,4 +1,4 @@
-## Desktop Companions for Mac 🐱 🐶 
+## Desktop Companions for MacOS 🐱 🐶 
 
 ---
 
