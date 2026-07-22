@@ -28,7 +28,7 @@ Curious, graceful, and endlessly inquisitive, Felix explores your desktop while 
 
 🐾 Adopt Felix on the Mac App Store: <App Store link>
 
-📖 Explore Felix & Mission Control: https://barshasantak.github.io/felix/
+📖 Explore Felix & Mission Control: [https://barshasantak.github.io/felix/](https://barshasantak.github.io/felix/)
 
 ---
 
@@ -38,7 +38,7 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 
 🐾 Adopt Rover on the Mac App Store: <App Store link>
 
-📖 Explore Rover & Mission Control: https://barshasantak.github.io/rover/
+📖 Explore Rover & Mission Control: [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
 
 ---
 
