@@ -15,7 +15,7 @@ Meet Felix and Rover: two beautifully crafted desktop companions designed to bri
  
 Curious, graceful, and endlessly inquisitive, Felix explores your desktop while helping you stay healthy, focused, and productive.
  
-### 🐾 Adopt Felix on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://www.apple.com/app-store/)
+### 🐾 Adopt Felix on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
  
 
 ## 3. 🐶 Rover
@@ -24,7 +24,7 @@ Curious, graceful, and endlessly inquisitive, Felix explores your desktop while 
  
 Faithful, watchful, and always by your side, Rover looks after your workspace and encourages healthier work habits, one wag of the tail at a time.
  
-### 🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://www.apple.com/app-store/)
+### 🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
  
 
 ## 4. Key Features
