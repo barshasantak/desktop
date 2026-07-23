@@ -35,17 +35,18 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 - help prevent your computer from sleeping when you need it most, and 
 - quietly keep you company throughout the day.
  
+ 
 ## 5. Mission Control
  
-### 📖 Explore Mission Control Quick Start Guide for [Felix](https://barshasantak.github.io/felix/) 
+📖 Explore Mission Control Quick Start Guide for [Felix](https://barshasantak.github.io/felix/) 
  
-### 📖 Explore Mission Control Quick Start Guide for [Rover](https://barshasantak.github.io/rover/)
+📖 Explore Mission Control Quick Start Guide for [Rover](https://barshasantak.github.io/rover/)
  
-  
-## 5. Closing Call-to-Action
-
+   
+## 6. Closing Call-to-Action
+ 
 Not every assistant needs to answer questions. Some simply make your day a little better. 
-
+ 
 More than just pets. More than utilities. They are companions for your digital life. 
  
  
