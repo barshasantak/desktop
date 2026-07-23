@@ -23,7 +23,7 @@ Curious, graceful, and endlessly inquisitive, Felix explores your desktop while 
 
 Faithful, watchful, and always by your side, Rover looks after your workspace and encourages healthier work habits, one wag of the tail at a time.
 
-🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://www.apple.com/app-store/)
+🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_white.png)](https://www.apple.com/app-store/)
 
 
 ## 4. Key Features
