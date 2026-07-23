@@ -34,7 +34,7 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 - help prevent your computer from sleeping when you need it most, and 
 - quietly keep you company throughout the day.
 
-📖 Explore Mission Control: [https://barshasantak.github.io/desktop/](https://barshasantak.github.io/desktop/)
+📖 Explore Mission Control Quick Start Guides for [Felix](https://barshasantak.github.io/felix/) and [Rover](https://barshasantak.github.io/rover/)
 
   
 ## 5. Closing Call-to-Action
