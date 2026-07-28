@@ -1,5 +1,7 @@
 ## Desktop Companions for MacOS 🐱 🐶 
 
+<br>
+
 ## 1. Hero Section
  
 ### Every Mac deserves a companion. 🍎
@@ -23,7 +25,7 @@ Curious, graceful, and endlessly inquisitive, Felix explores your desktop while 
 ### 🐾 Adopt Felix on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
   
 <br>
-
+  
 ## 3. 🐶 Rover
  
 ### Your Loyal Desktop Companion
@@ -37,7 +39,7 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 ### 🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
    
 <br>
-
+  
 ## 4. Key Features
  
 ### They're much more than animated pets,
@@ -47,7 +49,7 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 - quietly keep you company throughout the day.
   
 <br>
-
+  
 ## 5. Mission Control
  
 📖 Explore Mission Control Quick Start Guide for [Felix](https://barshasantak.github.io/felix/) 
