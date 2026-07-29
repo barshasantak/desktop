@@ -63,5 +63,12 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 Not every assistant needs to answer questions. Some simply make your day a little better. 
  
 More than just pets. More than utilities. They are companions for your digital life. 
+
+ <br>
  
+ <hr>
  
+ <small>*© 2026 Santak Das, Tara Design Studio. All rights reserved.*</small>
+
+ <br>
+  
