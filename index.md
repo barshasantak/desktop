@@ -20,7 +20,7 @@ Curious, graceful, and endlessly inquisitive, Felix explores your desktop while 
 
 ### Preview
 
-📺 Watch a 20 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a ~20 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
  
 ### 🐾 Adopt Felix on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
   
@@ -34,7 +34,7 @@ Faithful, watchful, and always by your side, Rover looks after your workspace an
 
 ### Preview
 
-📺 Watch a 20 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+📺 Watch a ~20 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
 
 ### 🐾 Adopt Rover on the Mac App Store: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
    
