@@ -77,7 +77,7 @@ Sometimes productivity isn't another notification. Sometimes it's a curious cat 
   
 <br>
   
-## Why You'll Love Desktop Companions
+## 5. Why You'll Love Desktop Companions
 
 🐾 Beautifully native macOS experience
 
@@ -91,7 +91,7 @@ Sometimes productivity isn't another notification. Sometimes it's a curious cat 
 
 <br>
 
-## 5. Mission Control
+## 6. Mission Control Guide
  
 📖 Explore the complete Mission Control Guide for [Felix](https://barshasantak.github.io/felix/) 
  
@@ -99,7 +99,7 @@ Sometimes productivity isn't another notification. Sometimes it's a curious cat 
   
 <br>
 
-## 6. Closing Call-to-Action
+## 7. Closing Call-to-Action
  
 Your Mac works hard every day. Maybe it's time to give it a companion.
 
