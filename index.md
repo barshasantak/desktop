@@ -73,9 +73,7 @@ Prevent your Mac from sleeping during downloads, presentations, or long-running 
 
 ### 😊 Tiny Moments of Joy
 
-Sometimes productivity isn't another notification.
-
-Sometimes it's a curious cat or a loyal dog quietly making you smile.
+Sometimes productivity isn't another notification. Sometimes it's a curious cat or a loyal dog quietly making you smile.
   
 <br>
   
