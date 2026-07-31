@@ -27,7 +27,7 @@ Always nearby.
 
 ### Preview
 
-📺 Watch a 22 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
  
 ### 🐾 Adopt Felix today: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
   
@@ -47,7 +47,7 @@ Always by your side.
 
 ### Preview
 
-📺 Watch a 22 second preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
 
 ### 🐾 Adopt Rover today: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
    
