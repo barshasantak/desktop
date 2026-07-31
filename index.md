@@ -57,23 +57,33 @@ Always by your side.
  
 ### 🩺 Healthy Work Habits
 
-Gentle reminders help you take breaks before long work sessions become exhausting.
+Work smarter, not longer.
+
+Customizable focus sessions and gentle wellness reminders help you take meaningful breaks, stay refreshed, and maintain a healthier rhythm throughout the day.
 
 ### 🖥 A Living Desktop
 
-Your Mac feels alive with beautifully crafted animations that naturally become part of your workspace.
+A desktop with personality.
+
+Beautiful autonomous animations transform your Mac into a workspace that feels alive, welcoming, and uniquely yours.
 
 ### ⚡ Smart System Awareness
 
-Keep an eye on your Mac's performance without constantly opening Activity Monitor.
+Quietly looking after your Mac.
+
+Lightweight system monitoring and intuitive controls keep important information within reach without distracting from your work.
 
 ### ☕ Stay Awake When You Need It
 
-Prevent your Mac from sleeping during downloads, presentations, or long-running tasks.
+Sleep when you do—not when your Mac decides to.
+
+Prevent sleep during downloads, builds, presentations, and other long-running tasks with a single click.
 
 ### 😊 Tiny Moments of Joy
 
-Sometimes productivity isn't another notification. Sometimes it's a curious cat or a loyal dog quietly making you smile.
+Because every Mac deserves a companion.
+
+Whether it's Rover faithfully keeping you company or Felix curiously exploring your desktop, they make everyday computing feel a little more human.
   
 <br>
   
