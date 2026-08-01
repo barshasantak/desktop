@@ -89,15 +89,15 @@ Whether it's Rover faithfully keeping you company or Felix curiously exploring y
   
 ## 5. Why You'll Love Desktop Companions
 
-🐾 Beautifully native macOS experience
+🐾 Designed to feel like macOS itself
 
-⚡ Lightweight and efficient
+⚡ Powerful performance. Minimal footprint.
 
-🔒 Privacy-first (no tracking, no accounts)
+🔒 Privacy-first, No tracking. No accounts. Just your companion.
 
-❤️ Designed to brighten your workday
+❤️ A little delight, every time you open your Mac
 
-🍎 Built exclusively for Mac
+🍎 Crafted exclusively for Mac
 
 <br>
 
