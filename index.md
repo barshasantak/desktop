@@ -27,7 +27,7 @@ Always nearby.
 
 ### Preview
 
-📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb){target="_blank"}
  
 ### 🐾 Adopt Felix today: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
   
@@ -47,7 +47,7 @@ Always by your side.
 
 ### Preview
 
-📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Rover](https://youtu.be/CN7QARjibgc?si=oHKnoX6924XBDhWj){target="_blank"}
 
 ### 🐾 Adopt Rover today: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/desktop/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-rover/id6783631987?mt=12)
    
@@ -103,9 +103,9 @@ Whether it's Rover faithfully keeping you company or Felix curiously exploring y
 
 ## 6. Mission Control Guide
  
-📖 Explore the complete Mission Control Guide for [Felix](https://barshasantak.github.io/felix/) 
+📖 Explore the complete Mission Control Guide for [Felix](https://barshasantak.github.io/felix/){:target="_blank"} 
  
-📖 Explore the complete Mission Control Guide for [Rover](https://barshasantak.github.io/rover/)
+📖 Explore the complete Mission Control Guide for [Rover](https://barshasantak.github.io/rover/){:target="_blank"}
   
 <br>
 
