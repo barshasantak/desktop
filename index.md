@@ -89,21 +89,21 @@ Whether it's Rover faithfully keeping you company or Felix curiously exploring y
   
 ## 5. Why You'll Love Desktop Companions
 
-🐾 Designed to feel like macOS itself
+🐾 Designed to feel like macOS itself.
 
 ⚡ Powerful performance. Minimal footprint.
 
 🔒 Privacy-first, No tracking. No accounts. Just your companion.
 
-❤️ A little delight, every time you open your Mac
+❤️ A little delight, every time you open your Mac.
 
-🍎 Crafted exclusively for Mac
+🍎 Crafted exclusively for Mac.
 
 <br>
 
 ## 6. Mission Control Guide
  
-📖 Explore the complete Mission Control Guide for [Felix](https://barshasantak.github.io/felix/){:target="_blank"} 
+📖 Explore the complete Mission Control Guide for [Felix](https://barshasantak.github.io/felix/){:target="_blank"}
  
 📖 Explore the complete Mission Control Guide for [Rover](https://barshasantak.github.io/rover/){:target="_blank"}
   
