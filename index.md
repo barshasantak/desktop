@@ -5,7 +5,7 @@
 ## 1. Hero Section
  
 ### Every Mac deserves a companion. 🍎
-We spend countless hours with our Macs - working, creating, coding, studying, and building. So why should our desktops feel empty?
+We spend countless hours with our Macs - working, creating, coding, designing, studying, and building. So why should our desktops feel empty?
  
 ### Meet the Companions Your Mac Has Been Missing.
 Meet the Desktop Companion Family, **Felix** and **Rover**. Two beautifully crafted desktop companions that bring personality, warmth, and delight to every workspace.
@@ -19,11 +19,11 @@ More than animated pets, they help you build healthier work habits, monitor your
  
 Curious, graceful, and endlessly inquisitive, Felix quietly explores your desktop, keeping you company while gently encouraging healthier work habits.
 
-Elegant when you're focused.
+- Elegant when you're focused.
 
-Playful when you need a smile.
+- Playful when you need a smile.
 
-Always nearby.
+- Always nearby.
 
 ### Preview
 
@@ -39,11 +39,11 @@ Always nearby.
  
 Loyal, watchful, and always ready to brighten your day, Rover faithfully patrols your desktop while encouraging healthier work habits one wag of the tail at a time.
 
-Always excited to see you.
+- Always excited to see you.
 
-Always looking out for you.
+- Always looking out for you.
 
-Always by your side.
+- Always by your side.
 
 ### Preview
 
